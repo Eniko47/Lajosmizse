@@ -1,3 +1,5 @@
+// Frissítés a Vercel újraindításához
+
 import { useState, useEffect } from "react";
 
 const images = [
